@@ -2,7 +2,7 @@
 
 ## 💻 Site no Netfly
 
-- https://peppy-mermaid-b8628b.netlify.app/
+- https://kazumisushi.netlify.app/
 
 ## 🛠️ Ferramentas e Tecnologias
 
