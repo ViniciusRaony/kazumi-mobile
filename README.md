@@ -1,6 +1,8 @@
 <h1 align="center">Projeto Kazumi MOBILE</h1>
 
-Criação com template base-Yummy
+## 💻 Site no Netfly
+
+- https://peppy-mermaid-b8628b.netlify.app/
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -11,12 +13,8 @@ Criação com template base-Yummy
 
 ## ⚙ Funcionalidades
 - TODO
-- 
-## 💻 Site no Netfly
-
-- [Clone esse repositório:](https://peppy-mermaid-b8628b.netlify.app/)  
  
 ### Links úteis
 
-- [Documentação Vue3: https://vuejs.org/guide/introduction.html) ](https://vuejs.org/guide/introduction.html)
-](https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/)
+- Template Yummy: [https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/](https://vuejs.org/guide/introduction.html)
+
