@@ -1,6 +1,6 @@
 <h1 align="center">Projeto Kazumi MOBILE</h1>
 
-## 💻 Site no Netfly
+## 💻 Site no Netlify
 
 - https://kazumisushi.netlify.app/
 
