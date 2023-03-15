@@ -28,7 +28,7 @@
       "type": "image/png"
     },
     {
-      "src": "assets/img/icon_192.png",
+      "src": "assets/img/icon_196.png",
       "sizes": "196x196",
       "type": "image/png",
 	  "purpose": "any maskable"
@@ -41,6 +41,11 @@
     {
       "src": "assets/img/icon_512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon_1024.png",
+      "sizes": "1024x1024",
       "type": "image/png"
     }
   ],
