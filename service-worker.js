@@ -19,7 +19,7 @@ self.addEventListener('install', event => {
         './assets/img/icon_196.png',
         './assets/img/icon_256.png',
         './assets/img/icon_512.png',
-        './assets/img/formulas.JPG',
+       
       ]))
   );
 });
