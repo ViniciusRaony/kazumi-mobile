@@ -10,11 +10,7 @@ self.addEventListener('install', event => {
 
                 './index.html',
                 './assets/css/main.css',
-                './assets/js/main.js',
-
-                './forms/book-a-table.php',
-                './forms/contact.php',
-
+               
                 './assets/img/favicon.png',
                 './assets/img/icon_40.png',
                 './assets/img/icon_57.png',
