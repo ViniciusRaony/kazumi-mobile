@@ -19,7 +19,7 @@ self.addEventListener('install', event => {
         './assets/img/icon_114.png',
         './assets/img/icon_120.png',
         './assets/img/icon_180.png',
-        './assets/img/icon_512.webp',
+        './assets/img/icon_512.png',
 
         './assets/img/about.webp',
         './assets/img/about-2.webp',
