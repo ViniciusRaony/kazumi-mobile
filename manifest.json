@@ -1,4 +1,5 @@
 {
+  "start_url": "index.html",
   "name": "Kazumi",
   "short_name": "Kazumi",
   "icons": [
@@ -31,7 +32,7 @@
       "src": "assets/img/icon_114.png",
       "sizes": "114x114",
       "type": "image/png",
-	  "purpose": "any maskable"
+      "purpose": "any maskable"
     },
     {
       "src": "assets/img/icon_120.png",
@@ -44,8 +45,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#31506F",
-  "theme_color": "#4D5360"
+  "background_color": "#ff0d00",
+  "theme_color": "#ff0d00"
 }
