@@ -11,7 +11,7 @@ self.addEventListener('install', event => {
         './index.html',
 
         './assets/img/favicon.png',
-        './assets/img/icon_50.png',
+        './assets/img/icon_40.png',
         './assets/img/icon_57.png',
         './assets/img/icon_60.png',
         './assets/img/icon_80.png',
@@ -29,7 +29,6 @@ self.addEventListener('install', event => {
         './assets/img/events2.webp',
         './assets/img/events3.webp',
         './assets/img/reservation.webp',
-
 
         './assets/img/gallery/gallery-1.webp',
         './assets/img/gallery/gallery-2.webp',
