@@ -9,6 +9,11 @@ self.addEventListener('install', event => {
       .then(cache => cache.addAll([
 
         './index.html',
+        './assets/css/main.css',
+        './assets/js/main.js',
+
+        './forms/book-a-table.php',
+        './forms/contact.php',
 
         './assets/img/favicon.png',
         './assets/img/icon_40.png',
@@ -51,8 +56,7 @@ self.addEventListener('install', event => {
         './assets/img/testimonials/testimonials-1.webp',
         './assets/img/testimonials/testimonials-2.webp',
         './assets/img/testimonials/testimonials-3.webp',
-        './assets/img/testimonials/testimonials-4.webp',
-        
+        './assets/img/testimonials/testimonials-4.webp',        
        
       ]))
   );
