@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Kazumi MOBILE</h1>
+<h1 align="center">Projeto Kazumi PWA</h1>
 
 ## 💻 Site no Netlify
 
